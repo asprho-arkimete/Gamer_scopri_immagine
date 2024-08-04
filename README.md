@@ -2,6 +2,7 @@ clona progetto: git clone: https://github.com/asprho-arkimete/Gamer_scopri_immag
 entra nella cartella progetto: cd <cartella progetto>
 estrai i file rar tramite: Charmed_Inedity_interviste_720[ITA].mp4.part01
 estrai file rar tramite: file_utili.part1
+estrai file rar gold tramite gold.rar
 
 crea una cartella "Lora"
 scarica modelli dentro la cartella lora:
