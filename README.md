@@ -28,4 +28,10 @@ BD-v18-lycoris-full.safetensors: BD-v18-lycoris-full.safetensors
 bondage-v11-ep105.safetensors: bondage-v11-ep105.safetensors
 BondageXL-ep32.safetensors: BondageXL-ep32-fp16-LCM.safetensors
 
+infine quando hai scaricato tutti i modelli,
+crea un area virtuale python 3.10
+python -m venv vgame
+entra nel area virtuale: ./scripts/activate
+e istalla il file con le librerie neccessarie ,tramite: pip install -r requisiti.txt
+
 
