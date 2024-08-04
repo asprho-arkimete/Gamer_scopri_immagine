@@ -34,4 +34,6 @@ python -m venv vgame
 entra nel area virtuale: ./scripts/activate
 e istalla il file con le librerie neccessarie ,tramite: pip install -r requisiti.txt
 
+buon gamer tramite: python beutymelody.py
+
 
