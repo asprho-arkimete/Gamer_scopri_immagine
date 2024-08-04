@@ -1,0 +1,17 @@
+math
+time
+tkinter
+torch
+diffusers
+os
+Pillow
+compel
+googletrans
+random
+datetime
+numpy
+opencv-python
+moviepy
+pygame
+cryptography
+shutil
