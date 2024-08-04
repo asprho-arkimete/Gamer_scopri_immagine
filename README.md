@@ -15,14 +15,16 @@ clona il progetto: https://github.com/wildoctopus/huggingface-cloth-segmentation
 clona il progetto: https://github.com/KiranPranay/swapseed
 
 scarica i file e mettili nella cartella modell
-realvisxlV40_v40LightningBakedvae.safetensors
-refined_V11.safetensors
+realvisxlV40_v40LightningBakedvae.safetensors: https://civitai.com/api/download/models/361593?type=Model&format=SafeTensor&size=pruned&fp=fp16
+refined_V11.safetensors https://civitai.com/api/download/models/75169?type=Model&format=SafeTensor&size=pruned&fp=fp16
 crea una cartella dentro al cartella model chiamata: "f22_nsfw"
 scarica dentro questa cartella il file:
-f222-nsfw-inpainting.ckpt
+f222-nsfw-inpainting.ckpt: ImNoOne/f222-nsfw-inpainting-sd
 
 crea dentro la carterlla model una cartella chiamata "bondage"
 scarica dentro la cartella bondage: 
-BD-v18-lycoris-full.safetensors
-bondage-v11-ep105.safetensors
-BondageXL-ep32.safetensors
+BD-v18-lycoris-full.safetensors: BD-v18-lycoris-full.safetensors
+bondage-v11-ep105.safetensors: bondage-v11-ep105.safetensors
+BondageXL-ep32.safetensors: BondageXL-ep32-fp16-LCM.safetensors
+
+
